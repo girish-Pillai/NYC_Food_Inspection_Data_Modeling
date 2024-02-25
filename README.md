@@ -34,3 +34,21 @@ Data Acquisition:
   >> Dataproc, a managed Hadoop and Spark service on GCP, is used to create and manage Spark clusters for running PySpark jobs. Airflow dynamically creates and deletes Dataproc clusters as needed to run PySpark jobs, optimizing resource utilization.
 
   >> Overall, this data processing workflow leverages GCP services to ingest, transform, and store inspection data efficiently, ensuring data availability and facilitating data-driven insights.
+
+## Airflow Workflow:
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/80d9da14-059e-4f05-b5ec-960b057b903e)
+
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/6cd42b1e-d7ab-4e8e-b3c9-7dbdff10b99a)
+
+## Dataproc Cluster:
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/768f67a9-c8d4-4c86-9acc-9d6f2b8f0ae3)
+
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/5c029c7d-a5f2-4b8d-80d9-e6b8a0d1dc4a)
+
+## GCS Bucket:
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/6e2029ef-3a1b-4d03-be49-9e0651ac0211)
+
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/6d90ae6f-072a-42ce-8452-9214b0783b1a)
+
+
+
