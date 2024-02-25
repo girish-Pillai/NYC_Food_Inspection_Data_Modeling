@@ -20,6 +20,7 @@ Data Acquisition:
   
   Fact Tables:
   >> Food Inspection: The data is processed to create fact food inspection tables. These tables store detailed information about food inspections, such as inspection dates, results, and violations.
+
   >> Violation: Data is processed to create a fact violation table. These tables store specific violations found during inspections, along with details like violation types and severity levels.
 
 ## Data Storage:
@@ -27,9 +28,9 @@ Data Acquisition:
   
 ## Orchestration and Management:
   >> The entire workflow is managed and orchestrated using Airflow, a powerful workflow management tool included in GCP. Airflow ensures the data pipeline runs reliably and efficiently, even at scale.
->  > 
+
   >> Cloud Composer, a managed service for Airflow on GCP, is used to simplify deployment and management of Airflow workflows.
->  > 
+
   >> Dataproc, a managed Hadoop and Spark service on GCP, is used to create and manage Spark clusters for running PySpark jobs. Airflow dynamically creates and deletes Dataproc clusters as needed to run PySpark jobs, optimizing resource utilization.
->  > 
+
   >> Overall, this data processing workflow leverages GCP services to ingest, transform, and store inspection data efficiently, ensuring data availability and facilitating data-driven insights.
