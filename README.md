@@ -14,6 +14,7 @@ Data Storage:
   >> Data Processing:
 
 Data is read from the GCS bucket.
+
   Dimension Tables:
   >> Data is used to create dimension tables, which provide context and meaning to fact tables. These tables store descriptive attributes about entities in your data model.
   
