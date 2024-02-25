@@ -14,7 +14,8 @@ Data Storage:
   >> Data Processing:
 
 Data is read from the GCS bucket.
-  >> Dimension Tables: Data is used to create dimension tables, which provide context and meaning to fact tables. These tables store descriptive attributes about entities in your data model.
+  Dimension Tables:
+  >> Data is used to create dimension tables, which provide context and meaning to fact tables. These tables store descriptive attributes about entities in your data model.
   
   Fact Tables:
   >> Food Inspection: The data is processed to create fact food inspection tables. These tables store detailed information about food inspections, such as inspection dates, results, and violations.
