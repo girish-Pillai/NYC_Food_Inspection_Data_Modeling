@@ -50,5 +50,11 @@ Data Acquisition:
 
 ![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/6d90ae6f-072a-42ce-8452-9214b0783b1a)
 
+## Pyspark Jobs running on Cluster:
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/36042146-8948-4a40-847b-db8b99f134de)
+
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/539d2172-9469-416b-8586-f35682e64fef)
+
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling/assets/98634040/65312ad4-9e6f-4230-9180-05cd99f9057f)
 
 
