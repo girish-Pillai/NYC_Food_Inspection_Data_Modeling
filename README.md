@@ -17,9 +17,8 @@ Data is read from the GCS bucket.
   >> Dimension Tables: Data is used to create dimension tables, which provide context and meaning to fact tables. These tables store descriptive attributes about entities in your data model.
   
   Fact Tables:
-  
-    >> Food Inspection: The data is processed to create fact food inspection tables. These tables store detailed information about food inspections, such as inspection dates, results, and violations.
-    >> Violation: Data is processed to create a fact violation table. These tables store specific violations found during inspections, along with details like violation types and severity levels.
+  >> Food Inspection: The data is processed to create fact food inspection tables. These tables store detailed information about food inspections, such as inspection dates, results, and violations.
+  >> Violation: Data is processed to create a fact violation table. These tables store specific violations found during inspections, along with details like violation types and severity levels.
 
 Data Storage:
   >> The processed data is stored in Parquet format, a columnar data format optimized for fast querying and efficient data compression. Parquet is well-suited for data warehouses and analytics due to its performance benefits.
