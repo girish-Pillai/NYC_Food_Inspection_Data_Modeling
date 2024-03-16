@@ -2,6 +2,8 @@
 
 This project outlines the data processing workflow for ingesting and transforming data from an API, performing inspections, and storing the results in Parquet tables. The entire process is orchestrated and managed through Airflow(Cloud Composer) on Google Cloud Platform (GCP).
 
+Check the Final Dashboard: https://shorturl.at/fpMQ0
+
 ## Data Flow:
 
 Data Acquisition:
