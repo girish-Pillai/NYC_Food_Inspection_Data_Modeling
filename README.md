@@ -24,6 +24,10 @@ Check the Final Dashboard: [PowerBi Dashboard](https://shorturl.at/fpMQ0)
 - **Food Inspection:** The data is processed to create fact food inspection tables. These tables store detailed information about food inspections, such as inspection dates, results, and violations.
 - **Violation:** Data is processed to create a fact violation table. These tables store specific violations found during inspections, along with details like violation types and severity levels.
 
+#### Dimensional Model:
+![Uploading NYC_Food_inspections_DimensionalModel.jpg…]()
+
+
 ### Data Storage:
 - The processed data is stored in Parquet format, a columnar data format optimized for fast querying and efficient data compression. Parquet is well-suited for data warehouses and analytics due to its performance benefits.
 
