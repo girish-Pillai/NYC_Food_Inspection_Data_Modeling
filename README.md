@@ -25,8 +25,7 @@ Check the Final Dashboard: [PowerBi Dashboard](https://shorturl.at/fpMQ0)
 - **Violation:** Data is processed to create a fact violation table. These tables store specific violations found during inspections, along with details like violation types and severity levels.
 
 #### Dimensional Model:
-![Uploading NYC_Food_inspections_DimensionalModel.jpg…]()
-
+![image](https://github.com/girish-Pillai/NYC_Food_Inspection_Data_Modeling_GCP_PySpark_Airlfow/assets/98634040/dc2f9de5-e156-460c-997b-0d827c54e3b1)
 
 ### Data Storage:
 - The processed data is stored in Parquet format, a columnar data format optimized for fast querying and efficient data compression. Parquet is well-suited for data warehouses and analytics due to its performance benefits.
